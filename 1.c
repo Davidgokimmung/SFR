@@ -1,6 +1,3 @@
-1) First Reader-Writers Problem
-   (Reader preference)
-   
 semaphore resource=1;
 semaphore rmutex=1;
 readcount=0;
